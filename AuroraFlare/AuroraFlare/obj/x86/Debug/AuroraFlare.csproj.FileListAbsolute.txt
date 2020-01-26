@@ -1,0 +1,171 @@
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\AuroraFlare.exe
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\AuroraFlare.pdb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\AuroraFlare.exe
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\AuroraFlare.pdb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\DialogueBox.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\MainBG.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\MenuLogo.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\AttackCursor.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\PlayerShip.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_BLUE_SPRITE.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_RED_SPRITE.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Enemies\Enemy1.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\ExitHover.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\MenuBG.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\OptionsHover.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\PlayHover.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\AtlarProfileSelect.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\CreateNewActive.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\CreateNewButton.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\DeleteButton.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\DeleteButtonActive.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\LeftArrowButton.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPAccept.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPBackground.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPCancel.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPInput.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\OverviewHeader.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\PlayButtonActive.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\PlayButtonBlacked.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfileAvBG.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfileAvBGActive.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfilesHeader.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\RightArrowButton.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\Debug.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\DialogueFont.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\InputFont.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\ProfileFont.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\SmallProfileFont.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\Fade.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\PauseMenu.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\ResumeHover.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_GREEN_SPRITE.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBall.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBallRed.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserSmall.xnb
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBallPurple.xnb
+C:\Users\Colton\Documents\Visual Studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+C:\Users\Colton\Documents\Visual Studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\AuroraFlare.xgs
+C:\Users\Colton\Documents\Visual Studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\SB1.xsb
+C:\Users\Colton\Documents\Visual Studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\WB1.xwb
+C:\Users\Colton\Documents\Visual Studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_blue.xnb
+C:\Users\Colton\Documents\Visual Studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_green.xnb
+C:\Users\Colton\Documents\Visual Studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_purple.xnb
+C:\Users\Colton\Documents\Visual Studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_red.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\DialogueBox.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\MainBG.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\MenuLogo.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\AttackCursor.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\PlayerShip.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_BLUE_SPRITE.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_RED_SPRITE.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Enemies\Enemy1.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\ExitHover.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\OptionsHover.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\PlayHover.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\AtlarProfileSelect.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\CreateNewActive.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\CreateNewButton.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\DeleteButton.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\DeleteButtonActive.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\LeftArrowButton.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPAccept.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPBackground.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPCancel.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPInput.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\OverviewHeader.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\PlayButtonActive.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\PlayButtonBlacked.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfileAvBG.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfileAvBGActive.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfilesHeader.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\RightArrowButton.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\PauseMenu.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\ResumeHover.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\Fade.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_GREEN_SPRITE.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBall.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBallRed.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserSmall.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBallPurple.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\MenuBG.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_blue.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_green.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_purple.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_red.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\Debug.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\DialogueFont.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\InputFont.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\ProfileFont.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\SmallProfileFont.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\AuroraFlare.xgs
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\SB1.xsb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\WB1.xwb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\AuroraFlare.exe
+F:\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\AuroraFlare.pdb
+F:\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\AuroraFlare.exe
+F:\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\AuroraFlare.pdb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\DialogueBox.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\MainBG.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\MenuLogo.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\AttackCursor.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\PlayerShip.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_BLUE_SPRITE.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_RED_SPRITE.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Enemies\Enemy1.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\ExitHover.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\OptionsHover.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\PlayHover.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\AtlarProfileSelect.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\CreateNewActive.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\CreateNewButton.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\DeleteButton.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\DeleteButtonActive.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\LeftArrowButton.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPAccept.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPBackground.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPCancel.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\NPInput.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\OverviewHeader.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\PlayButtonActive.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\PlayButtonBlacked.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfileAvBG.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfileAvBGActive.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\ProfilesHeader.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Profile\RightArrowButton.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\PauseMenu.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\ResumeHover.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\Fade.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\BEAM_GREEN_SPRITE.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBall.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBallRed.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserSmall.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Projectiles\LaserBallPurple.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Menu\MenuBG.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_blue.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_green.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_purple.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Game\Starfields\Starfield_red.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\Debug.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\DialogueFont.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\InputFont.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\ProfileFont.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\SmallProfileFont.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\AuroraFlare.xgs
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\SB1.xsb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\Content\Sounds\WB1.xwb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\AuroraFlare.exe
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\bin\x86\Debug\AuroraFlare.pdb
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\AuroraFlare.csprojResolveAssemblyReference.cache
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\AuroraFlare.exe
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlare\obj\x86\Debug\AuroraFlare.pdb

@@ -1,0 +1,3 @@
+c:\users\colton\documents\visual studio 2010\Projects\AuroraFlare\AuroraFlare\AuroraFlareContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AuroraFlare\AuroraFlare\AuroraFlareContent\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\BACKUPS\AuroraFlare\AuroraFlare\AuroraFlareContent\obj\x86\Debug\AuroraFlareContent.contentprojResolveAssemblyReference.cache
